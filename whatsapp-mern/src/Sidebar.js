@@ -3,7 +3,12 @@ import './Sidebar.css';
 
 function Sidebar() {
     return (
-        <div className='sidebar'>Sidebar</div>
+        <div className='sidebar'>Sidebar
+            <div className='sidebar__header'>
+
+            </div>
+        </div>
+    
     )
 }
 
